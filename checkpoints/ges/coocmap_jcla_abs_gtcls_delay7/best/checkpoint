@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data/wangsijia/Gestures/CTPG/intersec/checkpoints/ges/coocmap_jcla_abs_gtcls_delay7_rev_temp/best/ckpt-10"
+all_model_checkpoint_paths: "/data/wangsijia/Gestures/CTPG/intersec/checkpoints/ges/coocmap_jcla_abs_gtcls_delay7_rev_temp/best/ckpt-10"
