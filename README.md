@@ -66,6 +66,13 @@ python plot_confusion_matrix.py
 
 Change configuration and hyperparameters in parameters.py and the main file as you like.
 
+For the first time, make necessary directories:
+
+```
+mkdir logs
+mkdir rnn_out
+```
+
 Train for a body orientation classification model:
 
 ```
