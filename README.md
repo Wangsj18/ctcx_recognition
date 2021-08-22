@@ -93,3 +93,6 @@ After the body orientations and gestures are recognized, a video demo could be p
 python video_forpaper.py
 ```
 
+### Acknowledgement
+
+Thank https://github.com/zc402/ChineseTrafficPolicePose for the original code.
